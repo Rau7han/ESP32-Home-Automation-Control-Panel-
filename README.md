@@ -25,7 +25,3 @@ A simple DIY home automation project using an ESP32 touchscreen panel and an ESP
 - Use `hardware/pcb/` for PCB design files.
 - Use `hardware/3d/` for enclosure/3D files.
 - Use `media/photos/` for project photos and visuals.
-
-## Instructables Tutorial
-
-- Add your tutorial link here: https://www.instructables.com/
